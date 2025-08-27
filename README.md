@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pallavi 👾  
 
-<!--
-**pallavi-commit/pallavi-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 What I Do  
+- AI / ML / Data Science  
+- Full-stack experiments  
+- Design + Dev mashups  
 
-Here are some ideas to get you started:
+## 📌 Current Focus  
+- Data Science & AI projects  
+- Creative coding  
+- Open-source collabs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect  
+- [LinkedIn](https://www.linkedin.com/in/pallavimnaicker)  
+- [Email](mailto:pallavicohort@gmail.com)  
